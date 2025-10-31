@@ -1,0 +1,42 @@
+{
+    "UnitsSold": {
+        "count": 8,
+        "mean": 686.875,
+        "min": 95.0,
+        "max": 1500.0,
+        "sum": 5495.0
+    },
+    "Revenue": {
+        "count": 8,
+        "mean": 40000.0,
+        "min": 9500.0,
+        "max": 112500.0,
+        "sum": 320000.0
+    },
+    "ProductID": {
+        "count": 8,
+        "unique": 8,
+        "top": "P001",
+        "freq": 1
+    },
+    "ProductName": {
+        "count": 8,
+        "unique": 8,
+        "top": "Artisan Leather Wallet",
+        "freq": 1
+    },
+    "Category": {
+        "count": 8,
+        "unique": 2,
+        "top": "Electronics",
+        "freq": 5
+    },
+    "Month": {
+        "count": 8,
+        "unique": 1,
+        "top": "2024-01",
+        "freq": 8
+    },
+    "generated_at": "2025-10-19T18:50:04.286947",
+    "predictions_error": "'success' column not found. Cannot predict."
+}

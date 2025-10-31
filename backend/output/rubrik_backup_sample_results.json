@@ -1,0 +1,97 @@
+{
+    "job_id": {
+        "count": 5,
+        "mean": 3.0,
+        "min": 1.0,
+        "max": 5.0,
+        "sum": 15.0
+    },
+    "size_gb": {
+        "count": 5,
+        "mean": 250.0,
+        "min": 100.0,
+        "max": 450.0,
+        "sum": 1250.0
+    },
+    "duration_min": {
+        "count": 5,
+        "mean": 96.0,
+        "min": 40.0,
+        "max": 160.0,
+        "sum": 480.0
+    },
+    "network_latency_ms": {
+        "count": 5,
+        "mean": 146.0,
+        "min": 50.0,
+        "max": 290.0,
+        "sum": 730.0
+    },
+    "error_count": {
+        "count": 5,
+        "mean": 2.2,
+        "min": 0.0,
+        "max": 6.0,
+        "sum": 11.0
+    },
+    "retry_count": {
+        "count": 5,
+        "mean": 1.2,
+        "min": 0.0,
+        "max": 3.0,
+        "sum": 6.0
+    },
+    "compression_ratio": {
+        "count": 5,
+        "mean": 2.16,
+        "min": 1.2,
+        "max": 3.0,
+        "sum": 10.8
+    },
+    "encryption_enabled": {
+        "count": 5,
+        "mean": 0.6,
+        "min": 0.0,
+        "max": 1.0,
+        "sum": 3.0
+    },
+    "success": {
+        "count": 5,
+        "mean": 0.6,
+        "min": 0.0,
+        "max": 1.0,
+        "sum": 3.0
+    },
+    "source_type": {
+        "count": 5,
+        "unique": 3,
+        "top": "Database",
+        "freq": 2
+    },
+    "destination_type": {
+        "count": 5,
+        "unique": 3,
+        "top": "Cloud",
+        "freq": 3
+    },
+    "backup_type": {
+        "count": 5,
+        "unique": 3,
+        "top": "Full",
+        "freq": 2
+    },
+    "timestamp": {
+        "count": 5,
+        "unique": 5,
+        "top": "01-01-2025",
+        "freq": 1
+    },
+    "generated_at": "2025-11-01T00:20:55.547131",
+    "predictions": [
+        1,
+        0,
+        1,
+        0,
+        1
+    ]
+}

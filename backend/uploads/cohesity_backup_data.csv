@@ -1,0 +1,4 @@
+﻿job_id,size_gb,duration_min,error_count,success,timestamp
+1,45,30,0,1,01-01-2025
+2,60,42,1,0,02-01-2025
+3,50,45,0,1,03-01-2025

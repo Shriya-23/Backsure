@@ -1,0 +1,49 @@
+{
+    "job_id": {
+        "count": 3,
+        "mean": 2.0,
+        "min": 1.0,
+        "max": 3.0,
+        "sum": 6.0
+    },
+    "size_gb": {
+        "count": 3,
+        "mean": 51.666666666666664,
+        "min": 45.0,
+        "max": 60.0,
+        "sum": 155.0
+    },
+    "duration_min": {
+        "count": 3,
+        "mean": 39.0,
+        "min": 30.0,
+        "max": 45.0,
+        "sum": 117.0
+    },
+    "error_count": {
+        "count": 3,
+        "mean": 0.3333333333333333,
+        "min": 0.0,
+        "max": 1.0,
+        "sum": 1.0
+    },
+    "success": {
+        "count": 3,
+        "mean": 0.6666666666666666,
+        "min": 0.0,
+        "max": 1.0,
+        "sum": 2.0
+    },
+    "timestamp": {
+        "count": 3,
+        "unique": 3,
+        "top": "01-01-2025",
+        "freq": 1
+    },
+    "generated_at": "2025-10-19T22:28:10.787466",
+    "predictions": [
+        1,
+        0,
+        1
+    ]
+}

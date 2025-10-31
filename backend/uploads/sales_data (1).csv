@@ -1,0 +1,9 @@
+ProductID,ProductName,Category,UnitsSold,Revenue,Month
+P001,"Budget Wireless Earbuds",Electronics,1250,37500,2024-01
+P002,"Generic Phone Case",Accessories,980,14700,2024-01
+P003,"Basic USB Cable",Electronics,1500,15000,2024-01
+P004,"Premium Noise Cancelling Headphones",Electronics,180,54000,2024-01
+P005,"Artisan Leather Wallet",Accessories,95,9500,2024-01
+P006,"Smart Watch Pro",Electronics,450,112500,2024-01
+P007,"Portable Power Bank",Electronics,720,28800,2024-01
+P008,"Designer Sunglasses",Accessories,320,48000,2024-01

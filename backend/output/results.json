@@ -1,0 +1,21 @@
+{
+    "model_accuracy": 100.0,
+    "predictions": [
+        {
+            "size_gb": 90,
+            "duration_min": 25,
+            "error_count": 0,
+            "actual_success": 1,
+            "predicted_success": 1,
+            "success_probability": 0.9271884717475045
+        },
+        {
+            "size_gb": 50,
+            "duration_min": 45,
+            "error_count": 2,
+            "actual_success": 0,
+            "predicted_success": 0,
+            "success_probability": 0.005622933917412348
+        }
+    ]
+}

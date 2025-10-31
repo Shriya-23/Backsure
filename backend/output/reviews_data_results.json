@@ -1,0 +1,23 @@
+{
+    "CustomerRating": {
+        "count": 30,
+        "mean": 3.566666666666667,
+        "min": 1.0,
+        "max": 5.0,
+        "sum": 107.0
+    },
+    "ProductID": {
+        "count": 30,
+        "unique": 8,
+        "top": "P001",
+        "freq": 4
+    },
+    "ReviewText": {
+        "count": 30,
+        "unique": 30,
+        "top": "Absolutely amazing! Best noise cancellation I've experienced",
+        "freq": 1
+    },
+    "generated_at": "2025-10-19T18:50:33.161879",
+    "predictions_error": "'success' column not found. Cannot predict."
+}

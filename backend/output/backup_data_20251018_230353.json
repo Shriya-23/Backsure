@@ -1,0 +1,13 @@
+{
+    "filename": "backup_data.csv",
+    "columns": [
+        "job_id",
+        "size_gb",
+        "duration_min",
+        "error_count",
+        "success"
+    ],
+    "numeric_summary": {
+        "job_id": {
+            "mean": 5.5,
+            "min": 

@@ -1,0 +1,35 @@
+{
+    "Unnamed: 0": {
+        "count": 25553,
+        "mean": 12776.0,
+        "min": 0.0,
+        "max": 25552.0,
+        "sum": 326465128.0
+    },
+    "Content ID": {
+        "count": 25553,
+        "unique": 980,
+        "top": "02ba5af1-784a-44cc-ae3a-14833c4a2237",
+        "freq": 49
+    },
+    "User ID": {
+        "count": 22534,
+        "unique": 500,
+        "top": "68724f58-bc4d-4ab0-a4e1-60cdd5e95e7d",
+        "freq": 65
+    },
+    "Type": {
+        "count": 24573,
+        "unique": 16,
+        "top": "heart",
+        "freq": 1622
+    },
+    "Datetime": {
+        "count": 25553,
+        "unique": 25542,
+        "top": "2020-06-27 06:28:56",
+        "freq": 2
+    },
+    "generated_at": "2025-10-19T18:31:22.244312",
+    "predictions_error": "'success' column not found. Cannot predict."
+}
